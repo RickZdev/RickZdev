@@ -51,7 +51,7 @@ I'm a graduating student from University of the East - Manila, Philippines, an a
 
 ---
 ### 📞 Connect with me!
-<a href="https://www.linkedin.com/in/frederick-casta%C3%B1eda-jr-404b3b253/">
+<a href="https://www.linkedin.com/in/frederick-castañeda-jr/">
    <img align="left" alt="Express" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
