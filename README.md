@@ -1,8 +1,8 @@
 # 🤵 Frederick A. Castañeda Jr.
 
-**`Aspiring Software Engineer/Mobile Developer`**
+**`Software Engineer/Mobile Developer`**
 
-I'm a graduating student from University of the East - Manila, Philippines, an aspiring software engineer/mobile developer both full-stack and a content creator (maybe) at TikTok platform sharing my projects and answers queries of my fellow aspiring developers as a way of my contribution to the community. All of my projects/repo in my portfolio are built from the ground up without cloning other app from tutorials or from open-source. I planned and sometimes look for designs on Figma and take an inspiration to recreate the public UI design and bring the design to life. Some of my video content from my portfolio are uploaded on TikTok and some are already published on playstore and the rest are uploaded here on my GitHub as a repo. I publish all of my content on my TikTok channel at [@rickzdev](https://www.tiktok.com/@rickzdev).
+I'm a software engineer/mobile developer both full-stack and a content creator at TikTok platform sharing my projects and answers queries of my fellow aspiring developers as a way of my contribution to the community. All of my projects/repo in my portfolio are built from the ground up without cloning other app from tutorials or from open-source. I planned and sometimes look for designs on Figma and take an inspiration to recreate the public UI design and bring the design to life. Some of my video content from my portfolio are uploaded on TikTok and some are already published on playstore and the rest are uploaded here on my GitHub as a repo. I publish all of my content on my TikTok channel at [@rickzdev](https://www.tiktok.com/@rickzdev).
 
    <p align="left">
       <a href="https://www.tiktok.com/@rickzdev">
